@@ -1,5 +1,5 @@
 # linux-projeto-iac-cbm
-Repositório para os arquivos de script in bash, do primeiro projeto do curso de Linux
+Repositório para os arquivos de script in bash, do primeiro projeto em Linux
 
 Repositório para os arquivos de script em bash, com o objetivo de criar e gerenciar os seguintes itens :
 
